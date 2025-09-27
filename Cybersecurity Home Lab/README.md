@@ -209,7 +209,7 @@ sudo ufw status verbose
 
 ### 4.4 Secure SSH
 
-Edit `/etc/ssh/sshd_config` to:
+Edit `sudo vim /etc/ssh/sshd_config` to:
 
 ```
 # sample changes
@@ -218,10 +218,10 @@ PasswordAuthentication yes   # consider using keys and set to no if using keys
 # optionally change the SSH port from 22 to something else (security by obscurity)
 ```
 
-Then restart sshd:
+Then restart ssh:
 
 ```bash
-sudo systemctl restart sshd
+sudo systemctl restart ssh
 ```
 
 ### 4.5 Demonstrate the difference

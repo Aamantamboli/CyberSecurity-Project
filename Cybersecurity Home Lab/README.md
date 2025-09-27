@@ -275,15 +275,3 @@ After you’re comfortable with the basic lab, consider:
 (Use official project pages when downloading images — avoid third-party, untrusted sources.)
 
 ---
-
-## Contributing & License
-
-Contributions are welcome. For small changes, open an issue or a PR with proposed edits to docs or scripts.
-
-Suggested license: MIT — include a `LICENSE` file if you want to share this publicly.
-
----
-
-## Contact / Notes
-
-If you want this README turned into a downloadable `README.md` file in a particular format (shorter, more beginner-focused, or with screenshots and exact download links), say what you prefer and I will update it.
